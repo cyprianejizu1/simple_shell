@@ -1,5 +1,5 @@
-ifndef SHELL_H
-define SHELL_H
+#ifndef SHELL_H
+#define SHELL_H
 
 #include <dirent.h>
 #include <errno.h>
